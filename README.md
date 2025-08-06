@@ -4,7 +4,7 @@
 <div align="center">
   <h1>🚗 Ridex – Car Marketplace</h1>
   <p>A modern and responsive car rental and marketplace UI, designed for discovering, renting, or buying vehicles with ease.</p>
-  <img src="Car%20Marketplace/images/screenshot.PNG" alt="Ridex Car Marketplace Screenshot" width="700"/>
+  <img src="Car%20Marketplace/images/screenshot.PNG" alt="Ridex Car Marketplace Screenshot" width="100%"/>
 </div>
 
 ---
